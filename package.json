@@ -1,0 +1,21 @@
+{
+  "name": "mjs-sub",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "lib.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/andrewnicols/mjs-sub.git"
+  },
+  "author": {
+    "name": "Andrew Nicols",
+    "email": "andrew@nicols.co.uk",
+    "url": "http://andrewrn.co.uk"
+  },
+  "license": "BSD"
+}
