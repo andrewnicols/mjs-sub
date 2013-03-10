@@ -4,6 +4,7 @@
   "description": "ERROR: No README.md file found!",
   "main": "lib.js",
   "dependencies": {
+    "mjs-sub-v2.4": "git://github.com/andrewnicols/mjs-sub.git#v2.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
